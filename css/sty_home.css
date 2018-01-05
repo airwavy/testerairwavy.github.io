@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+img  								{
+	border: 0px;
+	text-align: center;
+}
+::-webkit-scrollbar 				{ width: 8px; height: 8px; }
+::-webkit-scrollbar-track-piece     { background-color: #FFFFFF; -webkit-border-radius: 5px; }
+::-webkit-scrollbar-thumb:horizontal, ::-webkit-scrollbar-thumb:vertical { width: 0px; background-color: #F6ABC0 ;
+-webkit-border-radius: 5px; }
+::-webkit-scrollbar-thumb:horizontal:hover, ::-webkit-scrollbar-thumb:vertical:hover {
+background-color: #F8EAF7;
+}
+body{
+	background-image: url(../images/bg.jpg);
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: center top;
+	margin: 0px;
+	text-align: center;
+	color: #FFF;
+
+
+
+
+
+
+
+
+
+.test {
+	color: #FFF;
+	font-size: 36px;
+	font-size: 36px;
+	font-size: 36px;
+	font-size: 36px;
+	font-size: xx-small;
+	font-size: 36px;
+	font-size: 36px;
+	font-size: 36px;
+}
+#Table_01 tr td #Table_ tr td blockquote blockquote blockquote p .test {
+	color: #FFF;
+}
+#Table_01 tr td #Table_ tr td blockquote blockquote blockquote p {
+	color: #FFF;
+}
